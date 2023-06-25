@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(212, 212, 120);
+}
+
+#container{
+    background-color: white;
+    width: fit-content;
+    height: 100%;
+    
+    padding: 20px;
+    justify-content: center;
+    margin-left: 350px;
+}
+
+h1{
+    color: red;
+    background-color: white;
+    text-align: center;
+
+}
+#para{
+    background-color: rgb(223, 217, 217);
+    width: 500px;
+    min-height: 1vmax;
+
+}
+input{
+    background-color: white;
+    width: 400px;
+}
+button{
+    background-color: rgb(15, 225, 152);
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+button:hover{
+    background-color: rgb(226, 195, 43);
+}
